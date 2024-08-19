@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+/* .image-1{
+    height: 300px;
+    background-image: url("https://images.hindustantimes.com/img/2023/01/10/1600x900/While-the-past-year-was-about-revenge-and-revival-_1673351689949.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+} */
+.image-1{
+    height: auto;
+    background-image: url("https://www.gohawaii.com/sites/default/files/hero-unit-images/11500_mauibeaches.jpg");
+    /* background-image: url("https://wallpapers.com/images/hd/1920-x-1080-nature-desktop-w34o4ep0boczo6cf.jpg"); */
+
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.distance{
+    margin-bottom: 7rem;
+}
+.border_line {
+  border: 1px solid #0e0110ee !important;
+}
+.image-2{
+    height: 400px;
+    background-image: url("https://media.istockphoto.com/id/474185479/photo/barbados.jpg?s=612x612&w=0&k=20&c=CoMAIsVOAPd6IzyrigoQdTn6POtp-OSnMv0cS9AzBzc=");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.left_align{
+  text-align: justify;
+}
+.alignment{
+  text-align:justify;
+  font-size: 20px;
+  padding: 7rem;
+}
+.box{
+  display: flex;
+  gap:25px;
+}
+.upper-button:hover{
+  background-color: rgb(234, 181, 35);
+  color: black;
+}
+.middle-button:hover{
+  background-color: darkslateblue;
+  color:beige;
+}
+.card-button:hover{
+  background-color: green;
+
+}
+.bottom_align{
+    text-align: justify;
+}
+/* #btn_1{
+
+} */
